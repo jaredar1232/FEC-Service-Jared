@@ -1,13 +1,13 @@
 # Project Nyke
 
-> Project description
+> Nike Reviews Module
 
 ## Related Projects
+https://github.com/jaredar1232/FEC-Service-Nick
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+https://github.com/jaredar1232/FEC-Service-Stacey
+
+https://github.com/jaredar1232/Nike-Mock-Up
 
 ## Table of Contents
 
@@ -17,14 +17,11 @@
 
 ## Usage
 
-> Some usage instructions
+> This is the reviews module for my teams nike mock up and should be added to the Services folder in the proxy. For proper pathing this folder should be named "FEC-Service-Jared"
 
 ## Requirements
 
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
-
-- Node 6.13.0
-- etc
+- MongoDB
 
 ## Development
 
@@ -32,8 +29,5 @@ An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
 
 From within the root directory:
 
-```sh
-npm install -g webpack
 npm install
-```
 
