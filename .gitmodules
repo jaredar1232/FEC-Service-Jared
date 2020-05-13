@@ -1,0 +1,3 @@
+[submodule "FEC-Service-Jared"]
+	path = FEC-Service-Jared
+	url = https://github.com/jaredar1232/FEC-Service-Jared.git
