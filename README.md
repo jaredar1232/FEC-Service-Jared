@@ -1,6 +1,6 @@
 # Project Nyke
 
-> Project description
+> Nike Reviews Module
 
 ## Related Projects
 
@@ -13,7 +13,7 @@
 
 ## Usage
 
-> This is the reviews module for my teams nike mock up
+> This is the reviews module for my teams nike mock up and should be added to the Services folder in the proxy. For proper pathing this folder should be named "FEC-Service-Jared"
 
 ## Requirements
 
